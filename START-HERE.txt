@@ -1,0 +1,11 @@
+FUN SIMULATION — WEBSITE
+
+1. ZIP extract karo.
+2. Andar ki ALL files/folders GitHub repo ROOT mein upload karo.
+3. GitHub > Settings > Pages > Deploy from branch > main > / (root).
+4. Website editing: content.js
+5. Privacy editing: privacy-content.js
+6. Logo editing: assets/logo.svg
+7. Full Roman Urdu instructions: README.md
+
+Contact: actiongamersstudio@gmail.com
